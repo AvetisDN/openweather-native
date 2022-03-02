@@ -10,7 +10,7 @@
         "eject": "expo eject"
     },
     "dependencies": {
-        "@unimodules/react-native-adapter": "^6.3.9",
+        "@unimodules/react-native-adapter": "^6.5.0",
         "expo": "~44.0.0",
         "expo-location": "~14.0.1",
         "expo-status-bar": "~1.2.0",
